@@ -1,0 +1,11 @@
+GIT STAGES
+1.PWD
+2.Staging Area
+3.Local Repo
+4.Remote Repo
+
+
+
+To add files in staging area
+
+git all -- all , git add . , git * - to add multiple files
